@@ -331,8 +331,7 @@ ul {
   fill: #afb1b8;
 }
 .media-link:hover .icon {
-  fill: var(--hovercol);
-  stroke: white;
+  fill: #fff
 }
 /* END MAIN-ABOUTUS */
 
